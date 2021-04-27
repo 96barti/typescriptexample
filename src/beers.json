@@ -1,0 +1,29 @@
+[{
+        "class": "WhiteWine",
+        "value": {
+            "name": "Ahool Ale",
+            "percents": 33
+        }
+    },
+    {
+        "class": "PureVodka",
+        "value": {
+            "name": "Bialy zubr",
+            "percents": 40
+        }
+    },
+    {
+        "class": "PureVodka",
+        "value": {
+            "name": "Pan Tadeusz",
+            "percents": 40
+        }
+    },
+    {
+        "class": "Lager",
+        "value": {
+            "name": "Zywiec",
+            "percents": 7
+        }
+    }
+]
